@@ -1,0 +1,11 @@
+cryptocurrency-futuristic-website/
+├── index.html
+├── style.css
+├── script.js
+├── particles.js
+├── images/
+│   ├── crypto-bg.jpg (your background image)
+│   ├── bitcoin.png
+│   ├── ethereum.png
+├── fonts/
+│   └── Orbitron-Regular.ttf
